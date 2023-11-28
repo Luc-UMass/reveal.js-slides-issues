@@ -1,0 +1,40 @@
+
+.theorem{
+  padding: 10px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  border: 2px solid black;
+  border-radius: 5px;
+  }
+
+.theorem{
+  background-color: rgba(219, 237, 255, 1);
+}
+
+.theorem.definition {
+  background-color: rgb(202, 255, 202);
+}
+
+.theorem.example {
+  background-color: white;
+}
+
+.theorem.exercise {
+  background-color: rgb(222, 220, 220);
+}
+
+.algorithm {
+  background-color: rgba(219, 237, 255, 1);
+  padding: 2px;
+  margin: 3px;
+}
+
+.red {
+  color: crimson;
+}
+
+.blue {
+  color: blue;
+}
+
+
